@@ -1,0 +1,22 @@
+{
+  "name": "CraveBite - Next-Gen Food Delivery",
+  "short_name": "CraveBite",
+  "description": "AI-powered food ordering with smart recommendations and real-time tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#ff385c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

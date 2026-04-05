@@ -1,0 +1,23 @@
+# Root ignore
+node_modules/
+.env*
+*.log
+.DS_Store
+
+# Backend specific
+backend/node_modules/
+backend/.env
+backend/logs/
+
+# Client specific
+client/node_modules/
+client/.pnp
+client/.pnp.*
+client/.yarn/*
+client/coverage/
+client/.next/
+client/out/
+client/build/
+client/.vercel
+client/*.tsbuildinfo
+client/next-env.d.ts
